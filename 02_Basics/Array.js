@@ -26,7 +26,7 @@ console.log(typeof newArray);
 console.log(myArray1.includes(9));
 console.log(myArray1.indexOf(20)); //Return -1 if not found
 
-//slice, splice
+//slice, splice// **IMP**
 console.log("A",myArray1);
 
 const slicedArray = myArray1.slice(1, 3); // Returns a shallow copy
